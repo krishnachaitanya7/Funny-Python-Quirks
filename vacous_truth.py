@@ -1,3 +1,2 @@
-print(any([]) == False)       # True
-print(all([]) == False)       # False
-# why: any([])→False, all([])→True (vacuous truth)
+print(any([]) == False)       
+print(all([]) == False)       
